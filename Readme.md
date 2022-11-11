@@ -7,7 +7,7 @@ The website focuses on learning DOM manipulation .
 - querySelector
 - innerHTML
 
-## [Live Preview](https://ran-dom-password-generator.netlify.app/)
+## [Live Preview](https://rock-paper-scissor-games.netlify.app/)
 
 ### SnapShot of the Webpage
 
